@@ -6,5 +6,10 @@ def merge_lists1(lst1, lst2):
         lst1.insert(index, elem)
     return lst1
 
-def merge_list2(lst1, lst2):
-    pass
+def merge_lists2(lst1, lst2):
+    l = []
+    for elem2 in lst2:
+        while lst1 and elem2 > lst1[0]:
+            l.append(lst1.pop(0))
+        l.append(elem2)
+    return l + lst1
