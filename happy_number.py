@@ -24,3 +24,16 @@ def isHappy1(n: int) -> bool:
         if s1 and s2 and s1 == s2:
             return False
     return True
+
+def isHappy2(n: int) -> bool:
+    s = 0
+    divisor = 10
+    while n != 0:
+        m = n % divisor
+        s += m**2
+        n //= divisor
+        if n == 0:
+            if s > 10:
+                s, n, divisor = 0, s, 10
+            else:
+                return s in [1, 7, 10]
