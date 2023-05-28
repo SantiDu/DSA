@@ -1,3 +1,5 @@
+# leetcode, rt 96%, mu 35%
+
 from math import inf
 
 class MinStack:

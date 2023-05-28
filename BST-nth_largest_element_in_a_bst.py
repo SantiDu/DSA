@@ -1,3 +1,5 @@
+# educative
+
 def find_nth_highest_in_bst(node, n):
     if node is None:
         return None

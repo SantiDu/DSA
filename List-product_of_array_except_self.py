@@ -1,3 +1,5 @@
+# leetcode, rt 92%, mu 44%
+
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
         product = [1]

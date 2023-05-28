@@ -1,3 +1,5 @@
+# leetcode, rt 15%, mu 80%
+
 from collections import deque
 
 class Solution:

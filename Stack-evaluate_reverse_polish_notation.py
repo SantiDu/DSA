@@ -1,3 +1,5 @@
+# leetcode, rt 6%, mu 89%
+
 class Solution:
     def evalRPN(self, tokens: List[str]) -> int:
         stack = []

@@ -1,3 +1,5 @@
+# leetcode, rt 88%, mu 95%
+
 from math import inf
 
 class Solution:

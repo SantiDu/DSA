@@ -1,3 +1,5 @@
+# educative
+
 def find_successor(root, d):
   def find_min(node):
     while node.left:

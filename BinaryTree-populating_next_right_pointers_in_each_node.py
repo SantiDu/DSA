@@ -1,3 +1,5 @@
+# leetcode, rt 61%, mu 8%
+
 """
 # Definition for a Node.
 class Node:

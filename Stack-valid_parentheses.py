@@ -1,3 +1,5 @@
+# leetcode, rt 85%, mu 64%
+
 class Solution:
     def isValid(self, s: str) -> bool:
         stack = []

@@ -1,3 +1,5 @@
+# leetcode, rt 95%, mu 92%
+
 class Solution:
     def isHappy(self, n: int) -> bool:
         # if n in [1, 7]:

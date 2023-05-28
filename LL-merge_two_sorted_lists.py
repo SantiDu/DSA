@@ -1,3 +1,5 @@
+# leetcode, rt 48%, mu 86%
+
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):

@@ -1,3 +1,5 @@
+# leetcode, rt 42%, mu 97%
+
 # Definition for a binary tree node.
 # class TreeNode(object):
 #     def __init__(self, x):

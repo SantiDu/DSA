@@ -1,3 +1,5 @@
+# leetcode, rt 93%, mu 85%
+
 from math import inf
 class Solution:
     def nextGreaterElements(self, nums: List[int]) -> List[int]:

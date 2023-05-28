@@ -1,3 +1,5 @@
+# educative
+
 def max_min(lst):
     def two_numbers_in_one():
         n_to_hold = lst[index] % n_max_pp
